@@ -15,15 +15,16 @@ from src.visuals import (
 )
 
 st.set_page_config(
-    page_title="AI-Driven Portfolio Optimizer",
+    page_title="RiskLens",
     page_icon="chart_with_upwards_trend",
     layout="wide",
 )
 
-st.title("AI-Driven Portfolio Optimizer")
+st.title("RiskLens")
 st.markdown(
-    "Build AI-assisted portfolios using **yfinance**, **K-Means**, **Random Forest**, "
-    "**mean-variance optimization**, and **5-year backtesting**."
+    "An AI-assisted portfolio optimizer for exploring risk, return, and allocation decisions "
+    "with **yfinance**, **K-Means**, **Random Forest**, **mean-variance optimization**, "
+    "and **5-year backtesting**."
 )
 
 with st.sidebar:

@@ -1,1 +1,1 @@
-"""AI-Driven Portfolio Optimizer package."""
+"""RiskLens package."""

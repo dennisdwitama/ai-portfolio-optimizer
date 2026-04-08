@@ -144,10 +144,6 @@ The app lets users:
 - compare optimized weights
 - analyze backtest performance
 
-## Suggested Resume / Portfolio Description
-
-**AI-Driven Portfolio Optimizer** — Built an end-to-end portfolio analytics app using `yfinance`, `scikit-learn`, `PyPortfolioOpt`, `Plotly`, and `Streamlit`. Engineered technical indicators, clustered stocks by risk using K-Means, predicted next-day returns with Random Forest, optimized allocations with mean-variance optimization, and backtested AI-assisted strategies over a 5-year horizon.
-
 ## Notes and Limitations
 
 - `yfinance` depends on Yahoo Finance public endpoints and may occasionally fail or rate-limit requests. The project includes a local cache to reduce repeated downloads. citeturn598449search0turn598449search3
